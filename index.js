@@ -17,7 +17,7 @@ function dec(a) {
   return --a
 }
 function makeInt(a) {
-  var toString = parseInt('a', 10)
+  var toString = parseInt(a, 10)
   return toString
 }
   
