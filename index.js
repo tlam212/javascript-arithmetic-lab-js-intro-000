@@ -13,6 +13,6 @@ function divide(a, b) {
 function inc (a) {
   return inc++
 }
-function inc (a) {
-  return inc--
+function dec (a) {
+  return dec--
 }
