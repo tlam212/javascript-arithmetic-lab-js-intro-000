@@ -10,9 +10,9 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
-function number (a) {
-  return number++
+function inc (a) {
+  return inc++
 }
-function number (a) {
-  return number--
+function inc (a) {
+  return inc--
 }
