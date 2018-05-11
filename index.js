@@ -18,6 +18,6 @@ function dec(a) {
 }
 function makeInt(a) {
   var toString = parseInt('a', 10)
-  return a.toString
+  return toString
 }
   
