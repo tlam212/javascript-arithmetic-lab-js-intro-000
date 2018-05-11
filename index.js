@@ -13,3 +13,6 @@ function divide(a, b) {
 function number (a) {
   return number++
 }
+function number (a) {
+  return number--
+}
