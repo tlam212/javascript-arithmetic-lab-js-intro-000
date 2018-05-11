@@ -21,3 +21,6 @@ function makeInt(a) {
   return toString
 }
   
+function preserveDecimal(a) {
+  var
+}
