@@ -14,5 +14,6 @@ function inc (a) {
   return a++
 }
 function dec (a) {
+  var dec = a
   return a--
 }
